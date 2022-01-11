@@ -1,2 +1,2 @@
 # 908
-Scripts used for project
+Script used for detection of lymph nodes
