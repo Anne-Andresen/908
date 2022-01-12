@@ -257,9 +257,9 @@ model.summary()
 
 # %%
 
-EPOCHS = 500
-BATCH_SIZE = 96
-learning_rate = 5e-5
+EPOCHS = 5000
+BATCH_SIZE = 12
+learning_rate = 1e-4
 val = 100
 # %%
 
